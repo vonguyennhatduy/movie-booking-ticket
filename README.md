@@ -13,3 +13,6 @@ npm run dev
 # install redux
 
 npm i react-redux redux
+
+
+LINK DEPLOY BÀI TẬP MOVIE SEAT SELECTION: https://movie-booking-ticket-sigma.vercel.app/
