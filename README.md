@@ -16,3 +16,4 @@ npm i react-redux redux
 
 
 LINK DEPLOY BÀI TẬP MOVIE SEAT SELECTION: https://movie-booking-ticket-sigma.vercel.app/
+update: https://movie-booking-ticket-update.vercel.app/
