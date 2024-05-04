@@ -23,8 +23,8 @@ const btBookingSlice = createSlice({
             }
         },
 
-        CancelTicket: (state, gheID) => {
-            const idx = state.danhSachGheDangDat.findIndex((value) => value.soGhe === gheID);
+        CancelTicket: (state, {payload}) => {
+            const idx = state.danhSachGheDangDat.findIndex((value) => value.soGhe === payload.soGhe);
             
             state.danhSachGheDangDat.splice(idx,1);
         }

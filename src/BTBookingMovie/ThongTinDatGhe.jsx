@@ -49,7 +49,7 @@ export const ThongTinDatGhe = () => {
                           <td>
                             <button onClick={
                               () => {
-                                dispatch(btBookingActions.CancelTicket(ghe.soGhe))
+                                dispatch(btBookingActions.CancelTicket(ghe))
                               }
                             } className='btn btn-danger'>Hủy</button>
                           </td>
