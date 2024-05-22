@@ -24,7 +24,7 @@ export const BTBookingMovie = () => {
             <div className="row">
                 <div style={{fontSize: "45px"}} className="col-8 text-warning text-center">
                     <div className="title">
-                        ĐẶT VÉ XEM PHIM CYBERLEARN
+                        ĐẶT VÉ XEM PHIM
                     </div>
                     <div className="screen" style={{marginLeft: "95px"}}>
                         Màn hình 
