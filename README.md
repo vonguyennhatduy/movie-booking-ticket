@@ -15,5 +15,4 @@ npm run dev
 npm i react-redux redux
 
 
-LINK DEPLOY BÀI TẬP MOVIE SEAT SELECTION: https://movie-booking-ticket-sigma.vercel.app/
-update: https://movie-booking-ticket-update.vercel.app/
+LINK DEPLOY PROJECT VỚI VERCEL : https://movie-seat-selection-app.vercel.app/
